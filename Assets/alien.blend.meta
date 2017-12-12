@@ -1,0 +1,2511 @@
+fileFormatVersion: 2
+guid: 8eeaafbbb2c389a4d938097ca94489c5
+timeCreated: 1508275882
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Alien_01_0
+    100004: Armature
+    100006: Armature_0
+    100008: BASE
+    100010: Body
+    100012: Chest
+    100014: HEAD
+    100016: head_cheek_1_left
+    100018: head_cheek_1_right
+    100020: head_cheek_2_left
+    100022: head_cheek_2_right
+    100024: head_cheek_3_left
+    100026: head_cheek_3_right
+    100028: head_cheek_4_left
+    100030: head_cheek_4_right
+    100032: head_chin
+    100034: head_eyeball_left
+    100036: head_eyeball_right
+    100038: head_eyebrow_1_left
+    100040: head_eyebrow_1_right
+    100042: head_eyebrow_2_left
+    100044: head_eyebrow_2_right
+    100046: head_eyebrow_3_left
+    100048: head_eyebrow_3_right
+    100050: head_eyebrows_middle
+    100052: head_eyelid_lower_left
+    100054: head_eyelid_lower_right
+    100056: head_face
+    100058: head_jaw
+    100060: head_lip_lower_left
+    100062: head_lip_lower_middle
+    100064: head_lip_lower_right
+    100066: head_lip_upper_left
+    100068: head_lip_upper_middle
+    100070: head_lip_upper_right
+    100072: head_mouth_corner_left
+    100074: head_mouth_corner_right
+    100076: head_nostril_left
+    100078: head_nostril_right
+    100080: head_tongue_1
+    100082: head_tongue_2
+    100084: LArm_Collarbone
+    100086: LArm_Finger11
+    100088: LArm_Finger12
+    100090: LArm_Finger13
+    100092: LArm_Finger21
+    100094: LArm_Finger22
+    100096: LArm_Finger23
+    100098: LArm_Finger31
+    100100: LArm_Finger32
+    100102: LArm_Finger33
+    100104: LArm_ForeArm1
+    100106: LArm_ForeArm2
+    100108: LArm_ForeArm3
+    100110: LArm_Hand
+    100112: LArm_UpperArm
+    100114: LArm_UpperTwist1
+    100116: LArm_UpperTwist2
+    100118: LLeg_Calf
+    100120: LLeg_Foot
+    100122: LLeg_Thigh
+    100124: LLeg_Toe1
+    100126: Neck
+    100128: Pelvis
+    100130: RArm_Collarbone
+    100132: RArm_Finger11
+    100134: RArm_Finger12
+    100136: RArm_Finger13
+    100138: RArm_Finger21
+    100140: RArm_Finger22
+    100142: RArm_Finger23
+    100144: RArm_Finger31
+    100146: RArm_Finger32
+    100148: RArm_Finger33
+    100150: RArm_ForeArm1
+    100152: RArm_ForeArm2
+    100154: RArm_ForeArm3
+    100156: RArm_Hand
+    100158: RArm_UpperArm
+    100160: RArm_UpperTwist1
+    100162: RArm_UpperTwist2
+    100164: RLeg_Calf
+    100166: RLeg_Foot
+    100168: RLeg_Thigh
+    100170: RLeg_Toe1
+    100172: SPINE1
+    100174: SPINE2
+    400000: //RootNode
+    400002: Alien_01_0
+    400004: Armature
+    400006: Armature_0
+    400008: BASE
+    400010: Body
+    400012: Chest
+    400014: HEAD
+    400016: head_cheek_1_left
+    400018: head_cheek_1_right
+    400020: head_cheek_2_left
+    400022: head_cheek_2_right
+    400024: head_cheek_3_left
+    400026: head_cheek_3_right
+    400028: head_cheek_4_left
+    400030: head_cheek_4_right
+    400032: head_chin
+    400034: head_eyeball_left
+    400036: head_eyeball_right
+    400038: head_eyebrow_1_left
+    400040: head_eyebrow_1_right
+    400042: head_eyebrow_2_left
+    400044: head_eyebrow_2_right
+    400046: head_eyebrow_3_left
+    400048: head_eyebrow_3_right
+    400050: head_eyebrows_middle
+    400052: head_eyelid_lower_left
+    400054: head_eyelid_lower_right
+    400056: head_face
+    400058: head_jaw
+    400060: head_lip_lower_left
+    400062: head_lip_lower_middle
+    400064: head_lip_lower_right
+    400066: head_lip_upper_left
+    400068: head_lip_upper_middle
+    400070: head_lip_upper_right
+    400072: head_mouth_corner_left
+    400074: head_mouth_corner_right
+    400076: head_nostril_left
+    400078: head_nostril_right
+    400080: head_tongue_1
+    400082: head_tongue_2
+    400084: LArm_Collarbone
+    400086: LArm_Finger11
+    400088: LArm_Finger12
+    400090: LArm_Finger13
+    400092: LArm_Finger21
+    400094: LArm_Finger22
+    400096: LArm_Finger23
+    400098: LArm_Finger31
+    400100: LArm_Finger32
+    400102: LArm_Finger33
+    400104: LArm_ForeArm1
+    400106: LArm_ForeArm2
+    400108: LArm_ForeArm3
+    400110: LArm_Hand
+    400112: LArm_UpperArm
+    400114: LArm_UpperTwist1
+    400116: LArm_UpperTwist2
+    400118: LLeg_Calf
+    400120: LLeg_Foot
+    400122: LLeg_Thigh
+    400124: LLeg_Toe1
+    400126: Neck
+    400128: Pelvis
+    400130: RArm_Collarbone
+    400132: RArm_Finger11
+    400134: RArm_Finger12
+    400136: RArm_Finger13
+    400138: RArm_Finger21
+    400140: RArm_Finger22
+    400142: RArm_Finger23
+    400144: RArm_Finger31
+    400146: RArm_Finger32
+    400148: RArm_Finger33
+    400150: RArm_ForeArm1
+    400152: RArm_ForeArm2
+    400154: RArm_ForeArm3
+    400156: RArm_Hand
+    400158: RArm_UpperArm
+    400160: RArm_UpperTwist1
+    400162: RArm_UpperTwist2
+    400164: RLeg_Calf
+    400166: RLeg_Foot
+    400168: RLeg_Thigh
+    400170: RLeg_Toe1
+    400172: SPINE1
+    400174: SPINE2
+    4300000: Body
+    7400000: Default Take
+    7400002: Bow
+    7400004: Idle
+    7400006: Point
+    7400008: Point_001
+    7400010: Raise Hand
+    7400012: Waving
+    7400014: Lower Hand
+    7400016: Point_Start
+    7400018: Point_Middle
+    7400020: Point_End
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bow
+      takeName: Bow
+      firstFrame: 0
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Point
+      takeName: Point
+      firstFrame: 0
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Point_001
+      takeName: Point_001
+      firstFrame: 0
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Raise Hand
+      takeName: Wave
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Waving
+      takeName: Wave
+      firstFrame: 45
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lower Hand
+      takeName: Wave
+      firstFrame: 155
+      lastFrame: 191
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Point_Start
+      takeName: Point
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Point_Middle
+      takeName: Point
+      firstFrame: 35
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Point_End
+      takeName: Point
+      firstFrame: 91
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature_0
+        weight: 1
+      - path: Armature/Armature_0/BASE
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/LLeg_Thigh/LLeg_Calf/LLeg_Foot/LLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/Pelvis/RLeg_Thigh/RLeg_Calf/RLeg_Foot/RLeg_Toe1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger11/LArm_Finger12/LArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger21/LArm_Finger22/LArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/LArm_Collarbone/LArm_UpperArm/LArm_UpperTwist1/LArm_UpperTwist2/LArm_ForeArm1/LArm_ForeArm2/LArm_ForeArm3/LArm_Hand/LArm_Finger31/LArm_Finger32/LArm_Finger33
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_cheek_4_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_1_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_2_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrow_3_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyebrows_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_chin
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_lip_lower_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_jaw/head_tongue_1/head_tongue_2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_middle
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_mouth_corner_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_left
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/Neck/HEAD/head_face/head_nostril_right
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger11/RArm_Finger12/RArm_Finger13
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger21/RArm_Finger22/RArm_Finger23
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32
+        weight: 1
+      - path: Armature/Armature_0/BASE/Alien_01_0/SPINE1/SPINE2/Chest/RArm_Collarbone/RArm_UpperArm/RArm_UpperTwist1/RArm_UpperTwist2/RArm_ForeArm1/RArm_ForeArm2/RArm_ForeArm3/RArm_Hand/RArm_Finger31/RArm_Finger32/RArm_Finger33
+        weight: 1
+      - path: Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

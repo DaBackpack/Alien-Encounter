@@ -1,0 +1,978 @@
+# Created By Carrara 8.0
+
+newmtl wire_196088225
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.768628 0.345098 0.882353
+ Ks 0.35 0.35 0.35
+
+newmtl Voygray
+ Ns 0
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.588235 0.603922 0.6
+ Ks 0.065882 0.065882 0.065882
+ map_Kd VOYBRIDGETEX-1\Textures\Voygray.jpg
+
+newmtl DimGray
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.294118 0.294118 0.294118
+ Ks 0.263529 0.263529 0.263529
+
+newmtl wire_225088199
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.882353 0.345098 0.780392
+ Ks 0.35 0.35 0.35
+
+newmtl Material__53
+ Ns 29
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.090196 0.090196 0.090196
+ Ks 0.252941 0.252941 0.252941
+
+newmtl Chairgray
+ Ns 9
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.372549 0.403922 0.447059
+ Ks 0.269412 0.269412 0.269412
+ map_Kd VOYBRIDGETEX-1\Textures\n011.jpg
+
+newmtl Color_00
+ Ns 24
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.227451 0.227451 0.227451
+ Ks 0.158118 0.158118 0.158118
+
+newmtl Color_H1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.498039 0.6 0.6
+ Ks 0.329412 0.329412 0.329412
+
+newmtl scrn4_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__251_RGB_Multiply.tga
+
+newmtl scrn4_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGETEX-1\Textures\scn4.1.png
+
+newmtl scrn2_7
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__201_RGB_Multiply.tga
+
+newmtl scrn10_3
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__213_RGB_Multiply.tga
+
+newmtl scrn10_4
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__214_RGB_Multiply.tga
+
+newmtl scrn10_5
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__215_RGB_Multiply.tga
+
+newmtl scrn3_3
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__244_RGB_Multiply.tga
+
+newmtl scrn3_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__30_Falloff.tga
+
+newmtl scrn5_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__252_RGB_Multiply.tga
+
+newmtl scrn3_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__245_RGB_Multiply.tga
+
+newmtl scrn3_4
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__249_RGB_Multiply.tga
+
+newmtl scrn6_1
+ Ns 10
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0 0 0
+ map_Kd VOYBRIDGE-1\Map__188_RGB_Multiply.tga
+
+newmtl scrn1_5
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__203_RGB_Multiply.tga
+
+newmtl Materi04
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.627451 0.560784 0.498039
+ Ks 0.098824 0.098824 0.098824
+
+newmtl LightGr
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.662745 0.662745 0.662745
+ Ks 0.065882 0.065882 0.065882
+
+newmtl Color_03
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.666667 0.666667 0.666667
+ Ks 0.065882 0.065882 0.065882
+
+newmtl wire_088177026
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.345098 0.694118 0.101961
+ Ks 0.35 0.35 0.35
+
+newmtl Charcoal
+ Ns 9
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.137255 0.137255 0.137255
+ Ks 0.065882 0.065882 0.065882
+
+newmtl Light_TL
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.603922 0.282353 0
+ Ks 0.065882 0.065882 0.065882
+ map_Kd VOYBRIDGE-1\Map__26_Gradient.tga
+
+newmtl Window
+ Ns 10
+ d 0.2
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0 0 0
+
+newmtl Color_A0
+ Ns 9
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.032941 0.032941 0.032941
+
+newmtl black2
+ Ns 0
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.082353 0.082353 0.082353
+
+newmtl Mainscreen
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.254902 0.27451 0.364706
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__260_RGB_Multiply.tga
+
+newmtl wire_224198087
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.878431 0.776471 0.341176
+ Ks 0.35 0.35 0.35
+
+newmtl scrn12red
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__30_Falloff.tga
+
+newmtl Doorpanel01
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGETEX-1\Textures\DP_01.png
+
+newmtl wire_085028177
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.333333 0.109804 0.694118
+ Ks 0.35 0.35 0.35
+
+newmtl Plaque
+ Ns 39
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.376471 0.27451 0.168627
+ Ks 0.63 0.63 0.63
+ map_Kd VOYBRIDGETEX-1\Textures\VP_col.png
+
+newmtl wire_229166215
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.898039 0.65098 0.843137
+ Ks 0.35 0.35 0.35
+
+newmtl Burnt
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.027451 0.011765 0.007843
+ Ks 0.065882 0.065882 0.065882
+
+newmtl Color_C2
+ Ns 29
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.2 0.156863 0.117647
+ Ks 0.131765 0.131765 0.131765
+
+newmtl wire_008008136
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.031373 0.031373 0.533333
+ Ks 0.35 0.35 0.35
+
+newmtl Black1
+ Ns 0
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0 0 0
+
+newmtl White
+ Ns 0
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 1 1 1
+ Ks 0 0 0
+
+newmtl light_white_on_to_off
+ Ns 10
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.588 0.588 0.588
+ Ks 0 0 0
+
+newmtl wire_177088026
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.694118 0.345098 0.101961
+ Ks 0.35 0.35 0.35
+
+newmtl Lights
+ Ns 10
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 1 0.972549 0.913726
+ Ks 0 0 0
+
+newmtl wire_087224087
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.341176 0.878431 0.341176
+ Ks 0.35 0.35 0.35
+
+newmtl wire_057008136
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.223529 0.031373 0.533333
+ Ks 0.35 0.35 0.35
+
+newmtl Metal_Co
+ Ns 39
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.933333 0.933333 0.933333
+ Ks 0.164706 0.164706 0.164706
+ map_Kd VOYBRIDGETEX-1\Textures\Metal_Co.jpg
+
+newmtl wire_224143087
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.878431 0.560784 0.341176
+ Ks 0.35 0.35 0.35
+
+newmtl wire_006134113
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.023529 0.52549 0.443137
+ Ks 0.35 0.35 0.35
+
+newmtl wire_184228153
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.721569 0.894118 0.6
+ Ks 0.35 0.35 0.35
+
+newmtl Metal_Steelplate
+ Ns 39
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.458824 0.478431 0.490196
+ Ks 0.164706 0.164706 0.164706
+ map_Kd VOYBRIDGETEX-1\Textures\Alumb_t.tga
+
+newmtl Material
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.8 0.694118 0.552941
+ Ks 0.098824 0.098824 0.098824
+
+newmtl Leather
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.623529 0.407843 0.329412
+ Ks 0.098824 0.098824 0.098824
+ map_Kd VOYBRIDGETEX-1\Textures\LEATH01.JPG
+
+newmtl wire_153228184
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.6 0.894118 0.721569
+ Ks 0.35 0.35 0.35
+
+newmtl wire_154185229
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.603922 0.72549 0.898039
+ Ks 0.35 0.35 0.35
+
+newmtl wire_184155229
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.721569 0.607843 0.898039
+ Ks 0.35 0.35 0.35
+
+newmtl wire_228153184
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.894118 0.6 0.721569
+ Ks 0.35 0.35 0.35
+
+newmtl Color_01
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 1 1 1
+ Ks 0.065882 0.065882 0.065882
+
+newmtl Color_A1
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.4 0.239216 0.239216
+ Ks 0.098824 0.098824 0.098824
+
+newmtl Color_04
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.117647 0.117647 0.117647
+ Ks 0.065882 0.065882 0.065882
+
+newmtl Color_06
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.337255 0.337255 0.337255
+ Ks 0.098824 0.098824 0.098824
+
+newmtl Color_05
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.556863 0.556863 0.556863
+ Ks 0.098824 0.098824 0.098824
+
+newmtl Color_07
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.776471 0.776471 0.776471
+ Ks 0.098824 0.098824 0.098824
+
+newmtl Leather2
+ Ns 19
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.623529 0.407843 0.329412
+ Ks 0.414 0.414 0.414
+ map_Kd VOYBRIDGETEX-1\Textures\LEATH01.JPG
+
+newmtl fabric_brown
+ Ns 10
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.070588 0.043137 0.003922
+ Ks 0.072 0.072 0.072
+ map_Kd VOYBRIDGETEX-1\Textures\BURLAP01.JPG
+
+newmtl wire_061134006
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.239216 0.52549 0.023529
+ Ks 0.35 0.35 0.35
+
+newmtl wire_141007058
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.552941 0.027451 0.227451
+ Ks 0.35 0.35 0.35
+
+newmtl wire_138008110
+ Ns 31
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.541176 0.031373 0.431373
+ Ks 0.35 0.35 0.35
+
+newmtl scrn6_9
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__234_RGB_Multiply.tga
+
+newmtl scrn7_4
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__222_RGB_Multiply.tga
+
+newmtl scrn7_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__194_RGB_Multiply.tga
+
+newmtl scrn1_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__193_RGB_Multiply.tga
+
+newmtl scrn1_4
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__206_RGB_Multiply.tga
+
+newmtl scrn2_5
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__256_RGB_Multiply.tga
+
+newmtl scrn2_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__253_RGB_Multiply.tga
+
+newmtl scrn9
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__217_RGB_Multiply.tga
+
+newmtl scrn2_8
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__202_RGB_Multiply.tga
+
+newmtl scrn6_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__209_RGB_Multiply.tga
+
+newmtl scrn1_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__190_RGB_Multiply.tga
+
+newmtl scrn1_6
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__191_RGB_Multiply.tga
+
+newmtl scrn7_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__194_RGB_Multiply.tga
+
+newmtl scrn7_3
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__220_RGB_Multiply.tga
+
+newmtl scrn7_5
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__195_RGB_Multiply.tga
+
+newmtl scrn8
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__217_RGB_Multiply.tga
+
+newmtl scrn7_6
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__195_RGB_Multiply.tga
+
+newmtl scrn7_7
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__195_RGB_Multiply.tga
+
+newmtl scrn6_7
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__224_RGB_Multiply.tga
+
+newmtl scrn6_8
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__225_RGB_Multiply.tga
+
+newmtl scrn6_6
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__227_RGB_Multiply.tga
+
+newmtl scrn6_4
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__229_RGB_Multiply.tga
+
+newmtl scrn6_5
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__231_RGB_Multiply.tga
+
+newmtl scrn2_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__253_RGB_Multiply.tga
+
+newmtl scrn2_3
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__253_RGB_Multiply.tga
+
+newmtl scrn2_4
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__253_RGB_Multiply.tga
+
+newmtl scrn2_6
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__253_RGB_Multiply.tga
+
+newmtl scrn1_7
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__205_RGB_Multiply.tga
+
+newmtl scrn1_3
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__204_RGB_Multiply.tga
+
+newmtl scrn6_3
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0.003922 0.003922 0.003922
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__189_RGB_Multiply.tga
+
+newmtl scrn10_1
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__211_RGB_Multiply.tga
+
+newmtl scrn10_2
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__212_RGB_Multiply.tga
+
+newmtl scrn10_6
+ Ns 50
+ d 1
+ Ni 1.5
+ illum 2
+ Ka 0.2 0.2 0.2
+ Kd 0 0 0
+ Ks 0.45 0.45 0.45
+ map_Kd VOYBRIDGE-1\Map__216_RGB_Multiply.tga
+
