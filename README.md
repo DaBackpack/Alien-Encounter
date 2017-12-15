@@ -13,4 +13,4 @@ Alien Encounter is a VR game designed for the Oculus Touch to explore how exactl
 
 ## To Develop
 
-Download the repo, make sure to extract desert_rock.zip to its current folder. It was too large to uplaod to Github uncompressed.
+Download the repo, make sure to extract desert_rock.zip to its current folder. It was too large to upload to Github uncompressed.
